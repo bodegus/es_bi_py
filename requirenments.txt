@@ -1,0 +1,8 @@
+pytest
+boto3
+requests
+awscli
+elasticsearch
+requests_aws4auth 
+pylama
+datetime
